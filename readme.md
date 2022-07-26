@@ -1,5 +1,14 @@
 # TimeCamp Client Portal
 
+Simple, hacky way to share TimeCamp reports with customers.
+
+Features:
+
+* share reports with customers via static private url
+* add your comments to reports
+* control - publish reports manually
+* customise - add customer logo
+
 ## Configuration
 
 1. `composer install`
