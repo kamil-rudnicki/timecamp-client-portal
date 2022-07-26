@@ -13,7 +13,7 @@ Features:
 
 1. `composer install`
 2. Put TimeCamp API Token in `index.php` config section
-3. Copy [https://docs.google.com/spreadsheets/d/1afZnQIwcOzyuCvrmJEisAa8dDizr1CHErllL2Ryk-hE/edit#gid=0](this Google Spreadsheet) to your Google Drive
+3. Copy [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1afZnQIwcOzyuCvrmJEisAa8dDizr1CHErllL2Ryk-hE/edit#gid=0) to your Google Drive
 5. Put Google Spreadsheet CSV public URL (File->Share->Publish to the web, specific tab, CSV format) in `index.php` config section
 
 ## Build
