@@ -1,0 +1,7 @@
+{
+  "require": {
+    "league/commonmark": "^2.3",
+    "khill/php-duration": "~1.0",
+    "bref/bref": "^1.5"
+  }
+}
